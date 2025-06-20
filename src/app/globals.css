@@ -3,6 +3,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --input-background: #94a3b8;
+  --button-background: #60a5fa;
+  --button-preparation: #dd8948;
+  --button-ready: #34d399;
+  --button-cancel: #f87171;
 }
 
 @theme inline {
